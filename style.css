@@ -5,8 +5,25 @@
 
 body {
   background-color: var(--bg-color);
+  height: 100vh;
 }
 
 body * {
   color: var(--text-color);
+  font-family: 'Lato', sans-serif;
+}
+
+#btn-close,
+#animated {
+  display: none;
+}
+
+#app {
+  display: flex;
+  align-items: center;
+  gap: 63px;
+}
+
+h1 {
+  font-family: 'Crimson Pro', serif;
 }
