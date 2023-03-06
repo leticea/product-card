@@ -8,17 +8,17 @@
 <br>
 
 <p align="center">
-  <img alt="product-card" src=".github/image.png">
+  <img alt="" src=".github/image.png">
 </p>
 
-## Product Card
+## Dashboard
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ## 💻 Projeto
 
@@ -41,10 +41,16 @@ Projetos #boraCodar da [Rocketseat](https://boracodar.dev/).
       <td><a href="https://github.com/leticea/music-player">🔗</a></td>
     </tr>
     <tr>
-      <td>02</td>
-      <td>Product Card</td>
-      <td>18/01/23</td>
-      <td><a href="https://github.com/leticea/product-card">🔗</a></td>
+      <td>05</td>
+      <td>Calculator</td>
+      <td>08/02/23</td>
+      <td><a href="https://github.com/leticea/calculator-rocketseat">🔗</a></td>
+    </tr>
+    <tr>
+      <td>08</td>
+      <td>Dashboard</td>
+      <td>01/03/23</td>
+      <td><a href="https://github.com/leticea/dashboard">🔗</a></td>
     </tr>
   </tbody>
 </table>
