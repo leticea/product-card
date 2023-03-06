@@ -11,7 +11,7 @@
   <img alt="" src=".github/image.png">
 </p>
 
-## Dashboard
+## Product Card
 
 ## 🚀 Tecnologias
 
