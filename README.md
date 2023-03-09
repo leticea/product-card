@@ -41,6 +41,12 @@ Projetos #boraCodar da [Rocketseat](https://boracodar.dev/).
       <td><a href="https://github.com/leticea/music-player">🔗</a></td>
     </tr>
     <tr>
+      <td>04</td>
+      <td>Chat</td>
+      <td>01/02/23</td>
+      <td><a href="https://github.com/leticea/chat-rocketseat">🔗</a></td>
+    </tr>
+    <tr>
       <td>05</td>
       <td>Calculator</td>
       <td>08/02/23</td>
