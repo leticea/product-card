@@ -52,6 +52,12 @@ Projetos #boraCodar da [Rocketseat](https://boracodar.dev/).
       <td>01/03/23</td>
       <td><a href="https://github.com/leticea/dashboard">🔗</a></td>
     </tr>
+    <tr>
+      <td>09</td>
+      <td>Currency Converter</td>
+      <td>08/03/23</td>
+      <td><a href="https://github.com/leticea/currency-converter">🔗</a></td>
+    </tr>
   </tbody>
 </table>
 
