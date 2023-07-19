@@ -166,6 +166,12 @@ Projetos #boraCodar da [Rocketseat](https://boracodar.dev/).
       <td>05/07/23</td>
       <td><a href="https://github.com/leticea/recipe-page">🔗</a></td>
     </tr>
+    <tr>
+      <td>28</td>
+      <td>AI Platform Interface</td>
+      <td>19/07/23</td>
+      <td><a href="https://github.com/leticea/AI-platform">🔗</a></td>
+    </tr>
   </tbody>
 </table>
 
